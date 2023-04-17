@@ -1,5 +1,7 @@
 import React from "react";
 
 export const Test123 = () => {
-  return <></>;
+  console.log("123");
+
+  return <>123123</>;
 };
