@@ -23,7 +23,8 @@ export const TossPay = () => {
     });
   };
 
-  const payment = () => {};
+  console.log("dddddd");
+  console.log("123321");
 
   return (
     <>
