@@ -26,6 +26,8 @@ export const TossPay = () => {
   console.log(">?????????");
   console.log("....");
 
+  console.log("...////..");
+
   return (
     <>
       <button onClick={tossPayment}>toss</button>
